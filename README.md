@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/endpoint?url=https://su6nnbn0dk.execute-api.us-east-1.amazonaws.com/prod/getMountainProjectBadge?email=erich016@umn.edu" />
+<img src="https://img.shields.io/endpoint?url=https://su6nnbn0dk.execute-api.us-east-1.amazonaws.com/prod/getMountainProjectBadge?email=erich016@umn.edu&link=https://www.mountainproject.com/user/200577529/patrick-erichsen" />
 
 <!--
 **Patrick-Erichsen/Patrick-Erichsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
