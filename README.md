@@ -27,7 +27,7 @@ Currently I am leading efforts to build the UI to [ConsenSource](consensource.io
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
       <td width="25%" align="center">
-        <span><i>Hyperledger Sawtooth</i></span><br><br><br>
+        <span><i>Hyperledger Sawtooth</i></span><br><br>
         <img height="64px" src="https://svgshare.com/i/PaS.svg">
       </td>
       <td width="25%" align="center">
