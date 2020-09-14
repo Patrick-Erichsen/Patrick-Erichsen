@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 I'm Patrick, a frontend software developer passionate about leveraging blockchain technology to empower end-users.
 
@@ -9,35 +9,35 @@ I'm Patrick, a frontend software developer passionate about leveraging blockchai
 
 <hr>
 
-### What I'm Working On
+## What I'm Working On
 
 Currently I am leading efforts to build the UI to [ConsenSource](consensource.io), an open-source blockchain aimed at improving the transparency of factory certifications in supply chains. 
 
-### What I Use
+## What I'm Using
 
 <table>
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>TypeScript</span><br><br><br>
+        <span><i>TypeScript</i></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>React</span><br><br><br>
+        <span><i>React</i></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
       <td width="25%" align="center">
-        <span>Hyperledger Sawtooth</span><br><br><br>
-        <img height="64px" src="assets/sawtooth-logo.png">
+        <span><i>Hyperledger Sawtooth</i></span><br><br><br>
+        <img height="64px" src="https://svgshare.com/i/PaS.svg">
       </td>
       <td width="25%" align="center">
-        <span>Rust</span><br><br><br>
+        <span><i>Rust</i></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/rust.svg">
       </td>
     </tr>
   </tbody>
 </table>
 
-### Talks
+## Talks
 
 - [Hyperledger Gloabl Forum 2020 Panel: Business Interoperability – The Key to Supply Chain Traceability](https://www.youtube.com/embed/wqXvqHITsCU)
