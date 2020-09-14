@@ -13,7 +13,7 @@ I'm Patrick, a frontend software developer passionate about leveraging blockchai
 
 Currently I am leading efforts to build the UI to [ConsenSource](consensource.io), an open-source blockchain aimed at improving the transparency of factory certifications in supply chains. 
 
-### 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
+### What I Use
 
 <table>
   <tbody>
@@ -27,8 +27,8 @@ Currently I am leading efforts to build the UI to [ConsenSource](consensource.io
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
       <td width="25%" align="center">
-        <span>Hyperledger Sawtooth</span><br><br>
-        <img height="64px" src="./assets/Hyperledger-Sawtooth.png">
+        <span>Hyperledger Sawtooth</span><br><br><br>
+        <img height="64px" src="assets/sawtooth-logo.png">
       </td>
       <td width="25%" align="center">
         <span>Rust</span><br><br><br>
@@ -40,6 +40,4 @@ Currently I am leading efforts to build the UI to [ConsenSource](consensource.io
 
 ### Talks
 
-#### Hyperledger Gloabl Forum 2020 Panel: Business Interoperability – The Key to Supply Chain Traceability
-
-<iframe width="1680" height="679" src="https://www.youtube.com/embed/wqXvqHITsCU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- [Hyperledger Gloabl Forum 2020 Panel: Business Interoperability – The Key to Supply Chain Traceability](https://www.youtube.com/embed/wqXvqHITsCU)
