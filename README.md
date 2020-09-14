@@ -28,7 +28,7 @@ Currently I am leading efforts to build the UI to [ConsenSource](consensource.io
       </td>
       <td width="25%" align="center">
         <span>Hyperledger Sawtooth</span><br><br>
-        <img height="64px" src="assets/Hyperledger-Sawtooth.png">
+        <img height="64px" src="assets/sawtooth-logo.png">
       </td>
       <td width="25%" align="center">
         <span>Rust</span><br><br><br>
