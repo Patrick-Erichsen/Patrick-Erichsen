@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Patrick, a frontend software developer passionate about leveraging blockchain technology to empower end-users.
+I'm Patrick, a frontend software developer passionate about leveraging emerging technologies to empower end-users.
 
 [![Linkedin badge](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-erichsen-ba36b6a4/)
 [![GitHub badge](https://img.shields.io/github/followers/Patrick-Erichsen?label=follow&style=social)](https://github.com/Patrick-Erichsen)
